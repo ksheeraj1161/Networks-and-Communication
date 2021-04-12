@@ -1,4 +1,5 @@
-//convert the decimal to binary , count the no of 1 's in the binary values, add the parity ( Even parity). restrict the binary equivalent to 7 bits. 
+//convert the decimal to binary , count the no of 1 's in the binary values, add the parity ( Even parity). 
+//restrict the binary equivalent to 7 bits. 
 //parity bit should be eighth bit. parity bit should be in right most position, again convert into decimal.
 
 #include<stdio.h> 
