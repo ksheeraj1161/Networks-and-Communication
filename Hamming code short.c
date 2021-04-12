@@ -1,4 +1,5 @@
-// hamming code - calculate only the no of redundant bits 2^r>= k+r+1
+// hamming code - calculate only the no of redundant bits 
+//2^r>= k+r+1
 //input = k, k= no of bits in the data word.
 //calculate the no of bits in the code word
 
